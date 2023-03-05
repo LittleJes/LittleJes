@@ -18,4 +18,6 @@
 ![CharlesProxy](https://img.shields.io/badge/CharlesProxy-149887?style=for-the-badge&logo=Charles&logoColor=0052cc)
 
 ## Примеры тестовой документакции
-[test-case](https://github.com/LittleJes/test-case)
+- [test-case](https://github.com/LittleJes/test-case)
+
+- [check-list](https://github.com/LittleJes/check-list)
