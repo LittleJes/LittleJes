@@ -21,3 +21,9 @@
 - [test-case](https://github.com/LittleJes/test-case)
 
 - [check-list](https://github.com/LittleJes/check-list)
+
+- [bug-report](https://github.com/LittleJes/bug-report)
+
+
+## Пример коллекции Postman
+- [Тестовая коллекция](https://elements.getpostman.com/redirect?entityId=19660281-57eb4b6e-887f-4fe6-b935-33151775fc16&entityType=collection)
