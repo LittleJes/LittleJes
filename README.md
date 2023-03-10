@@ -1,8 +1,16 @@
 ![Header](https://github.com/LittleJes/LittleJes/blob/main/assets/download.gif) 
 
-Обо мне
+### Обо мне
+Добрый день! Меня зовут Петр. В данный момент работаю тестировщиком в небольшой Нижегородской компании. 
 
-Ссылка на резюме
+В дальнейшем интересует переход в атоматизацию.
+
+Имею огромное желание поработать над новыми и инетесными проектами в команде крутых специалистов. 
+
+
+
+### Ссылка на резюме
+![HH](https://nn.hh.ru/applicant/resumes/view?resume=f73d460fff0bc9f7430039ed1f707564657966)
 
 ### Инструменты
 ![JIRA](https://img.shields.io/badge/JIRA-149887?style=for-the-badge&logo=jira&logoColor=0052cc)
