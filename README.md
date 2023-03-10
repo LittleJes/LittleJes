@@ -29,4 +29,4 @@
 - [Тестовая коллекция](https://elements.getpostman.com/redirect?entityId=19660281-57eb4b6e-887f-4fe6-b935-33151775fc16&entityType=collection)
 
 ## Пример работы с Charles Proxy
-- [Подмена запроса](https://elements.getpostman.com/redirect?entityId=19660281-57eb4b6e-887f-4fe6-b935-33151775fc16&entityType=collection)
+- [Подмена запроса](https://github.com/LittleJes/charles-proxy)
